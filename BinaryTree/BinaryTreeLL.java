@@ -183,8 +183,8 @@ void insert(int value){
       System.out.println("The node is doed not exist in tree");
     }
   /*Delete Entire Tree
-  * Time Complexity:O(N)
-  * Space Complexity:O(N)
+  * Time Complexity:O(1)
+  * Space Complexity:O(1)
   */
   public void deleteEntireTree(){
    root=null;
